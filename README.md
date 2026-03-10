@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hello, I'm Orhan Yilmaz 👋
 
 Full-Stack Java Developer focused on building modern web applications with **React** in the frontend and **Java (Spring Boot)** in the backend.
