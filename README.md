@@ -31,7 +31,7 @@ I enjoy developing clean, user-friendly applications and continuously improving 
 
 ## 🚀 Projects
 
-### 🎬 CinemaR  
+### 🎬 CinemoR  
 Movie ticket booking web application
 
 **Tech:** React · JavaScript · Spring Boot · REST API  
@@ -49,7 +49,7 @@ E-learning platform with modular frontend components
 
 ---
 
-### 🚗 AutoOR  
+### 🚗 AutooR  
 Car rental web application with a multi-step booking process
 
 **Tech:** React · JavaScript · HTML · CSS  
